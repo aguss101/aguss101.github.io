@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.bocado",
+    "sha256_cert_fingerprints": ["08:07:B5:3E:C4:BF:34:04:29:AE:65:3B:13:82:6C:7B:B0:9D:1C:B1:EC:0B:85:A7:C5:D8:75:98:3F:86:43:25"]
+  }
+}]
